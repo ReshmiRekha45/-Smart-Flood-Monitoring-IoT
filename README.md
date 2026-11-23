@@ -3,7 +3,7 @@
 An IoT-based real-time waterlogging and flood alert prototype built using **ESP32** and **Ultrasonic Sensors** to prevent urban flooding.
 
 ## Live Simulation
-- **Run Interactive Simulation:** [Click Here to Test on Wokwi]((https://wokwi.com](https://wokwi.com/projects/481467781644580865))
+- **Run Interactive Simulation:** [Click Here to Test on Wokwi]((https://wokwi.com/projects/481467781644580865))
 
 ## How It Works
 - **Water Level Sensing:** Uses an HC-SR04 Ultrasonic Sensor to continuously measure the distance to the water surface inside a drain or reservoir.
